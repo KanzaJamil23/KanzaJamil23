@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanzaJamil23
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kanza.jamil4@gmail.com
 
